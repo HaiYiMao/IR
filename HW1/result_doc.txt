@@ -1,0 +1,43 @@
+Okapi TF Model:
+Average precision (non-interpolated) for all rel docs(averaged over queries) 0.2021
+Precision:
+  At   10 docs:   0.3600
+  At   30 docs:   0.3053
+
+
+TF-IDF model:
+Average precision (non-interpolated) for all rel docs(averaged over queries) 0.2714
+Precision:
+  At   10 docs:   0.4280
+  At   30 docs:   0.3613
+
+Okapi BM25:
+Average precision (non-interpolated) for all rel docs(averaged over queries) 0.2583
+Precision:
+  At   10 docs:   0.3960
+  At   30 docs:   0.3267
+
+Unigram LM with Laplace smoothing
+Average precision (non-interpolated) for all rel docs(averaged over queries) 0.1945
+Precision:
+  At   10 docs:   0.3720
+  At   30 docs:   0.3040
+
+Unigram LM with Jelinek-Mercer smoothing
+Average precision (non-interpolated) for all rel docs(averaged over queries) 0.1648
+Precision:
+  At   10 docs:   0.2760
+  At   30 docs:   0.2320
+
+MetaSearch
+Average precision (non-interpolated) for all rel docs(averaged over queries) 0.2583
+Precision:
+  At   10 docs:   0.3960
+  At   30 docs:   0.3267
+
+
+
+
+
+  
+  
